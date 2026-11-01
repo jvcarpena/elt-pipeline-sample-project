@@ -18,4 +18,4 @@ sources:
               - relationships:
                   arguments:
                     to: ref('stg_tpch_orders')
-                    field: o_orderkey
+                    field: order_key
